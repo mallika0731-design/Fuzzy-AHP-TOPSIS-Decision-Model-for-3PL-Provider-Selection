@@ -214,6 +214,15 @@ This decision framework can be applied to:
 • Multi-criteria business decision problems
 
 ---
+## Visualizations
+
+The system generates several visualizations including:
+
+- Criteria weight distribution
+- TOPSIS ranking bar chart
+- Score comparison plots
+- Correlation analysis
+- Monte Carlo robustness probabilities
 
 # License
 
