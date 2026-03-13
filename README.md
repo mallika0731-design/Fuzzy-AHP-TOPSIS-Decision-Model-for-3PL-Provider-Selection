@@ -170,21 +170,6 @@ Python libraries used in this project:
 
 ---
 
-# Project Structure
-
-```
-project/
-│
-├── data/
-├── outputs/
-├── visualizations/
-├── decision_science.py
-├── presentation/
-└── README.md
-```
-
----
-
 # How to Run
 
 Install dependencies:
